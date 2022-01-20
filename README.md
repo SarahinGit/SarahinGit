@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @SarahinGit
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+Hi, I'm @SarahinGit
+I am interested and working towards Data Analysis
+I also have a special interest in Health in regards to Bio-informatics
+looking foward to collaborate with various students and  professionals to enhance our technical skills.
+<!---
+SarahinGit/SarahinGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
